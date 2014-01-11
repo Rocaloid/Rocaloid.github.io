@@ -135,6 +135,10 @@ p.postdate {
 	font-weight: 500;	
 }
 
+#w3validator {
+	float:left;
+}
+
 a {
   text-decoration: none;
   color: #007edf;
