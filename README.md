@@ -1,4 +1,4 @@
-rocaloid.github.io
+www.rocaloid.org
 ==================
 
 Rocaloid's project website.
