@@ -9,9 +9,9 @@ title: Rocaloid
 	else
 		var language = navigator.browserLanguage;
 	if(language.indexOf('zh') > - 1)
-		document.location.href = '{{ site.baseurl }}/index_zh.html';
+		document.location.href = 'rocaloid.github.io/index_zh.html';
 	else
-		document.location.href = '{{ site.baseurl }}/index_en.html';
+		document.location.href = 'rocaloid.github.io/index_en.html';
 </script>
 
 Welcome to the world of Rocaloid!
