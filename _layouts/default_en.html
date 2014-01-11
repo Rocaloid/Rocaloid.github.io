@@ -4,7 +4,12 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<title>Rocaloid: The free vocal synthesis system from scratch.</title>
-	<link rel="stylesheet" type="text/css" href="/css/main.css" />
+	<!--[if lt IE 9 ]>
+		<link rel="stylesheet" type="text/css" href="/css/main_ie8.css" />
+	<![endif]-->
+	<!--[if (gt IE 8)|!(IE)]><!-->
+		<link rel="stylesheet" type="text/css" href="/css/main.css" />
+	<!--<![endif]-->
 	<link rel="stylesheet" type="text/css" href="/css/syntax.css" />
 </head>
 <body>
@@ -17,7 +22,7 @@
 		<div class="inner">
 			<div id="leftbox">
 				<div id="nav">
-					<div class="linkboxs">
+					<div id="linkboxs">
 						<div class="linkbox"><a href="/index_en.html">Home</a></div>
 						<div class="linkbox"><a href="/sub/en/blog.html">Blog</a></div>
 						<div class="linkbox"><a href="/sub/en/history.html">History</a></div>
@@ -38,20 +43,6 @@
 		</div>
 	</div>
 	<div id="footer">
-		<div id="w3validator">
-			<p>
-			<a href="http://validator.w3.org/check?uri=referer"><img
-			src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" />
-			</a>
-			</p>
-			<p>
-			<a href="http://jigsaw.w3.org/css-validator/check/referer">
-				<img style="border:0;width:88px;height:31px"
-				src="http://jigsaw.w3.org/css-validator/images/vcss"
-				alt="Valid CSS!" />
-			</a>
-			</p>
-		</div>
 		<p>
 			Language：<a href="/index_en.html">English</a> | <a href="/index_zh.html">简体中文</a><br /><br />
 			Published with <a href="http://pages.github.com/">GitHub Pages</a><br />
