@@ -1,5 +1,5 @@
 name: Rocaloid
 markdown: redcarpet
 pygments: true
-baseurl: file:///home/sleepwalking/Documents/Rocaloid/Rocaloid.github.io/_site
+baseurl: www.rocaloid.org
 

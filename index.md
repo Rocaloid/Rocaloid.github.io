@@ -3,15 +3,18 @@ layout: default_en
 title: Rocaloid
 ---
 
+<script LANGUAGE="JavaScript">
+	if(navigator.appName == 'Netscape')
+		var language = navigator.language;
+	else
+		var language = navigator.browserLanguage;
+	if(language.indexOf('zh') > - 1)
+		document.location.href = '{{ site.baseurl }}/index_zh.html';
+	else
+		document.location.href = '{{ site.baseurl }}/index_en.html';
+</script>
+
 Welcome to the world of Rocaloid!
 ---
 
-<div id="home">
-	<ul class="posts">
-	{% for post in site.posts %}
-		{% if post.categories contains 'en' %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-		{% endif %}
-	{% endfor %}
-	</ul>
-</div>
+[Click here if you are not redirected.]({{ site.baseurl }}/index_en.html)
