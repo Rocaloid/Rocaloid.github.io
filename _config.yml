@@ -1,5 +1,5 @@
 name: Rocaloid
 markdown: redcarpet
 pygments: true
-baseurl: www.rocaloid.org
+baseurl: http://www.rocaloid.org
 
