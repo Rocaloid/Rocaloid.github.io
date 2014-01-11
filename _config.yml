@@ -1,0 +1,5 @@
+name: Rocaloid
+markdown: redcarpet
+pygments: true
+baseurl: http://www.rocaloid.org
+
