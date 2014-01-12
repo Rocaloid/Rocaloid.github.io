@@ -21,7 +21,7 @@ categories: download zh
 
 &emsp;&emsp;附带*Rocaloid_HatsuneMiku(CHN) 1.6.1/71-236*音源库
 
-&emsp;&emsp;[百度网盘下载](http://pan.baidu.com/s/1pc8Ho) 203MB
+&emsp;&emsp;[百度网盘下载](http://pan.baidu.com/s/1pc8Ho) `.7z` `203MB`
 
 ---
 
@@ -36,7 +36,7 @@ categories: download zh
 
 &emsp;&emsp;附带*Rocaloid_HatsuneMiku(CHN) 0.9*音源库
 
-&emsp;&emsp;[百度网盘下载](http://pan.baidu.com/share/link?shareid=69031&uk=3423845838) 46MB
+&emsp;&emsp;[百度网盘下载](http://pan.baidu.com/share/link?shareid=69031&uk=3423845838) `.7z` `46MB`
 
 <br />
 

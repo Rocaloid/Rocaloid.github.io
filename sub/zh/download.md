@@ -15,8 +15,8 @@ title: Rocaloid
 
 ##&ensp;源代码
 
-&emsp;&emsp;Rocaloid3各组件的源码链接汇总。
+&emsp;&emsp;Rocaloid3各组件的[源码链接汇总](/download/zh/2014/01/12/rocaloid3-component-source.html)。
 
 
-&emsp;&emsp;Rocaloid历史版本的源码链接汇总。
+&emsp;&emsp;Rocaloid历史版本的[源码链接汇总](/download/zh/2014/01/12/rocaloid-old-source.html)。
 
