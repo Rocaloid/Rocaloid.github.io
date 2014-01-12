@@ -7,4 +7,16 @@ title: Rocaloid
 
 ---
 
-(目前网站正在建设中……)
+##&ensp;可执行文件
+
+&emsp;&emsp;抱歉，目前Rocaloid3没有已发布的执行档。
+
+&emsp;&emsp;Rocaloid历史版本的执行档[下载](/download/zh/2014/01/12/rocaloid-old-binaries.html)。
+
+##&ensp;源代码
+
+&emsp;&emsp;Rocaloid3各组件的源码链接汇总。
+
+
+&emsp;&emsp;Rocaloid历史版本的源码链接汇总。
+

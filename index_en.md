@@ -3,8 +3,10 @@ layout: default_en
 title: Rocaloid
 ---
 
-Welcome to the world of Rocaloid!
+&emsp;Welcome to the world of Rocaloid!
 ---
 
-Currently our website is under construction.
+---
+
+&emsp;&emsp;Currently our website is under construction.
 
