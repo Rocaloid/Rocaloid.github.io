@@ -20,3 +20,11 @@ title: Rocaloid
 
 &emsp;&emsp;Rocaloid历史版本的[源码链接汇总](/download/zh/2014/01/12/rocaloid-old-source.html)。
 
+###&ensp;本站的源码
+
+> 本站基于Github Pages构建
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/Rocaloid.github.io)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/Rocaloid.github.io/archive/master.zip) `.zip`
+

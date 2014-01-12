@@ -18,7 +18,9 @@ categories: download zh
 
 > * RUtil - Rocaloid实用编程库
 
-&emsp;&emsp;[代码仓库](https://github.com/Sleepwalking/Rocaloid)
+* &emsp;[代码仓库](https://github.com/Sleepwalking/Rocaloid)
+
+* &emsp;[打包下载](https://github.com/Sleepwalking/Rocaloid/archive/CurrentBranch.zip) `.zip`
 
 ---
 
@@ -26,7 +28,9 @@ categories: download zh
 
 > 高速音频信号处理库
 
-&emsp;&emsp;[代码仓库](https://github.com/Sleepwalking/CVEDSP)
+* &emsp;[代码仓库](https://github.com/Sleepwalking/CVEDSP)
+
+* &emsp;[打包下载](https://github.com/Sleepwalking/CVEDSP/archive/master.zip) `.zip`
 
 ---
 
@@ -36,7 +40,9 @@ categories: download zh
 
 > *(尚未使用，开发暂停)*
 
-&emsp;&emsp;[代码仓库](https://github.com/Sleepwalking/CVEANN)
+* &emsp;[代码仓库](https://github.com/Sleepwalking/CVEANN)
+
+* &emsp;[打包下载](https://github.com/Sleepwalking/CVEANN/archive/master.zip) `.zip`
 
 ---
 
@@ -46,7 +52,9 @@ categories: download zh
 
 > 一个基于GNUPlot的频谱分析仪和若干语音分析插件
 
-&emsp;&emsp;[代码仓库](https://github.com/Rocaloid/Wavetave)
+* &emsp;[代码仓库](https://github.com/Rocaloid/Wavetave)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/Wavetave/archive/master.zip) `.zip`
 
 ---
 
@@ -58,7 +66,9 @@ categories: download zh
 
 > *(尚未使用)*
 
-&emsp;&emsp;[代码仓库](https://github.com/Rocaloid/SCONFEditor)
+* &emsp;[代码仓库](https://github.com/Rocaloid/SCONFEditor)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/SCONFEditor/archive/master.zip) `.zip`
 
 <br />
 
