@@ -18,3 +18,4 @@ Welcome to the world of Rocaloid!
 ---
 
 [Click here if you are not redirected.](/index_en.html)
+
