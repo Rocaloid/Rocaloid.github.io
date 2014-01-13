@@ -27,3 +27,7 @@ title: Rocaloid
 
   &emsp;&emsp;处理开发问题、bug汇报。
 
+##&ensp;项目组
+
+&emsp;&emsp;[项目组成员联系方式](/sub/zh/team-contact.html)
+
