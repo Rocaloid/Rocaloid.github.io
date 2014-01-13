@@ -43,6 +43,10 @@ title: Rocaloid
 
 &emsp;&emsp;捐赠多少，由您决定。视捐赠金额，您的昵称将有机会被附在往后的投稿末尾。
 
+####&emsp;淘宝
+
+&emsp;&emsp;[点此访问淘宝捐助页面](http://item.taobao.com/item.htm?spm=0.0.0.0.g9TxzW&id=37026013364)
+
 ####&emsp;支付宝转账
 
 &emsp;&emsp;[点此进入支付宝转账页面](https://shenghuo.alipay.com/send/payment/fill.htm)
@@ -60,9 +64,5 @@ title: Rocaloid
 > 开户人姓名：吴骁
 
 > 付款说明: Rocaloid开发捐赠
-
-####&emsp;淘宝
-
-&emsp;&emsp;暂未开通。
 
 <br />
