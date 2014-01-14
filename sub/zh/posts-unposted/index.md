@@ -21,9 +21,7 @@ title: Rocaloid
 
 ####&ensp;Rocaloid1 合成测试
 
-&emsp;&emsp;这里是Rocaloid初代的全部**测试曲**。
-
-&emsp;&emsp;这里是Rocaloid初代的全部**测试音频片段**。
+&emsp;&emsp;[这里](http://pan.baidu.com/s/1o6Gy5qM)是Rocaloid初代的全部合成测试。
 
 <br />
 
