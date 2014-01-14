@@ -33,6 +33,10 @@ title: Rocaloid
 
 &emsp;&emsp;![](http://i2.hdslb.com/user/5101/510196/13490146314debaccd689c90c3.jpg)
 
+---
+
+&emsp;&emsp;此外，[这里](/sub/zh/posts-unposted/index.html)有一些未投稿的合成测试。
+
 <br />
 
 [1]: http://www.bilibili.tv/video/av360461/
