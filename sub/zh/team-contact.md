@@ -29,6 +29,8 @@ title: Rocaloid
 
 > 移植。
 
+> 江西南昌市第十九中学 高二(二)
+
 > Email: [rgwan@rocaloid.org](mailto:rgwan@rocaloid.org)
 
 ---
