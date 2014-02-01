@@ -33,7 +33,7 @@ title: Rocaloid
 
 &emsp;&emsp;所有捐赠得到的钱，无论以何种形式得到，将100%被用于项目开发。
 
-&emsp;&emsp;每月月底，我们会在[博客](/sub/zh/blog.html)上发布当月的收入支出明细。
+&emsp;&emsp;每月月底，我们会在[这里](/sub/zh/accounting.html)更新当月的收入支出明细。
 
 <br />
 
