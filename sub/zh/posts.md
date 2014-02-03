@@ -7,6 +7,13 @@ title: Rocaloid
 
 ---
 
+&emsp;[**Rocaloid有自己的音源库啦！**][5]
+<p class="postdate">&emsp;&emsp;3 Feb 2014</p>
+
+&emsp;&emsp;![](http://i1.hdslb.com/u_f/6b82c2a483b64b9ab55bc207b62c6749.png)
+
+---
+
 &emsp;[**大家还记得那个让初音唱中文的软件吗？**][4]
 <p class="postdate">&emsp;&emsp;26 Aug 2013</p>
 
@@ -43,3 +50,5 @@ title: Rocaloid
 [2]: http://www.bilibili.tv/video/av365894/
 [3]: http://www.bilibili.tv/video/av595252/
 [4]: http://www.bilibili.tv/video/av733216/
+[5]: http://www.bilibili.tv/video/av942666/
+

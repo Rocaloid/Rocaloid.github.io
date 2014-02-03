@@ -1,0 +1,12 @@
+---
+layout: blog_zh
+title:  "新投稿，2013开发进度报告"
+date:   2014-02-03
+categories: blog zh
+tags: post log
+---
+
+&emsp;&emsp;半年在b站没动静了，我们投了[这个视频](http://www.bilibili.tv/video/av942666/)，作为一个开发进度汇报。
+
+&emsp;&emsp;有非常精彩的【正片】部分哦～
+
