@@ -22,7 +22,7 @@ title: Rocaloid
 
 ###&ensp;本站的源码
 
-> 本站基于Github Pages构建
+> 本站基于GitHub Pages构建
 
 * &emsp;[代码仓库](https://github.com/Rocaloid/Rocaloid.github.io)
 
