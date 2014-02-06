@@ -37,7 +37,7 @@ title: Rocaloid
 
 ##&ensp;音源&创作组
 
-####&emsp;&ensp;AKI
+####&emsp;&ensp;王昊 (AKI)
 
 > 编曲；音源库处理。
 
