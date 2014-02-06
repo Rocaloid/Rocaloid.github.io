@@ -12,3 +12,6 @@ title: Rocaloid
 
 &emsp;&emsp;Rocaloid project started 3 years ago, being encountered numerous technical difficulties, we still haven’t accomplished a formal and productive release, yet, we have gotten some phased [achievements](/sub/en/posts.html). In fact, the whole project had been entirely rewritten [twice](/sub/en/history.html); currently the third rewrite is in progress. We believe after every time’s rewritten, improvements are made based on the existed version. Eventually someday in the future not far, we are able to realize the dream of Rocaloid.
 
+---
+
+&emsp;&emsp;Free as in freedom means [anyone has the freedom to run the program, to redistribute copies, and to distribute copies of modified versions](http://www.gnu.org/). You can download copies of executable of Rocaloid for no charge, as well as get a copy of source code, and redistribute modified versions according to the conditions of [the license](http://www.gnu.org/licenses/gpl.html).
