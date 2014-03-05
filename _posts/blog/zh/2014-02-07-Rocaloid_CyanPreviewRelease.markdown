@@ -3,7 +3,7 @@ layout: blog_zh
 title:  "Rocaloid_Cyan音库限制预览版发布"
 date:   2014-02-07
 categories: blog zh
-tags: post log
+tags: publish soundfont Rocaloid_Cyan
 ---
 
 &emsp;&emsp;大家期待很久了，我们决定先在严格限制的条件下发布一个半成品的Rocaloid_Cyan音库。

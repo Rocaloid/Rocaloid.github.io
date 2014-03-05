@@ -7,9 +7,11 @@ title: Rocaloid
 
 ---
 
-&emsp;&emsp;网站刚刚建立，我们正在着手用户手册的编写。
+&emsp;&emsp;[Rocaloid3完全参考](https://github.com/Rocaloid/Rocaloid-Doc)(英文，正在编写中……)
 
-&emsp;&emsp;您可以在iVocaloid论坛看到Rocaloid旧版本的简略使用说明。
+&emsp;&emsp;[pdf版下载](/resources/publications/R3FullReference-20140305.pdf)(生成于2014-03-05)
+
+#### 旧版本使用简述
 
 ---
 
