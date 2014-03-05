@@ -3,7 +3,7 @@ layout: default_zh
 title: Rocaloid
 ---
 
-### 用户手册
+### 参考文档
 
 ---
 
