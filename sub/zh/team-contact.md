@@ -19,7 +19,7 @@ title: Rocaloid
 
 &emsp;&emsp;王昊(AKI)/音源库 编曲/[aki@rocaloid.org](mailto:aki@rocaloid.org)
 
-&emsp;&emsp;曹斯言(Cyan)/音源/上海中学国际部/[cyan@rocaloid.org](mailto:cyan@rocaloid.org)
+&emsp;&emsp;曹斯言(Cyan)/声源提供/上海中学国际部/[cyan@rocaloid.org](mailto:cyan@rocaloid.org)
 
 <br />
 
