@@ -17,7 +17,7 @@ title: Rocaloid
 
 &emsp;&emsp;[Rocaloid 参考文档](https://github.com/Rocaloid/Rocaloid-Doc)
 
-&emsp;&emsp;[一个给开发者的项目简介`pdf`](/resources/publications/Introduction-20140307.pdf)(英文，生成于2014-03-07)
+&emsp;&emsp;[一个给开发者的项目简介`pdf`](/resources/publications/Introduction-20140614.pdf)(英文，生成于2014-06-14)
 
 &emsp;&emsp;[Wavetave 用户手册`pdf`](/resources/publications/WavetaveIntro-20140307.pdf)(英文，生成于2014-03-07)
 
