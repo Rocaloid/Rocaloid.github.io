@@ -5,11 +5,11 @@ date:   2014-06-14
 categories: blog zh
 ---
 
-&emsp;&emsp;由于Rocaloid3项目计划中的`CVE3.5`语音合成引擎过于庞大，开发耗时过长，我们决定同时开发UTAU兼容引擎`RUCE`（Rocaloid UTAU Compatible Engine）。
+&emsp;&emsp;由于Rocaloid3项目计划中的CVE3.5语音合成引擎过于庞大，开发耗时过长，我们决定同时开发UTAU兼容引擎RUCE（Rocaloid UTAU Compatible Engine）。
 
-&emsp;&emsp;`RUCE`将于今年8月初提早于`CVE3.5`完成。计划中`RUCE`将与UTAU和UTAU音源完全兼容，并在此基础上实现一些扩展功能。
+&emsp;&emsp;RUCE将于今年8月初提早于CVE3.5完成。计划中RUCE将与UTAU和UTAU音源完全兼容，并在此基础上实现一些扩展功能。
 
-&emsp;&emsp;`RUCE`以GPLv3授权。它将与`CVE3.5`共享一系列基础库，包括一些已经完成的部分，且`RUCE`在结构上更简单，因此`RUCE`能在较短时间内完成。
+&emsp;&emsp;RUCE以GPLv3授权。它将与CVE3.5共享一系列基础库，包括一些已经完成的部分，且RUCE在结构上更简单，因此RUCE能在较短时间内完成。
 
-&emsp;&emsp;另外，Rocaloid项目从开始至今已经历了三周年，我们计划暑期举行相关庆祝活动，包括新的投稿和`RUCE`的发布。敬请期待，感谢大家的支持！
+&emsp;&emsp;另外，Rocaloid项目从开始至今已经历了三周年，我们计划暑期举行相关庆祝活动，包括新的投稿和RUCE的发布。敬请期待，感谢大家的支持！
 
