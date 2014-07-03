@@ -11,6 +11,26 @@ title: Rocaloid
 
 &emsp;&emsp;注：捐款时未注明网名的朋友们，列表中使用姓名拼音打头缩写代替。
 
+### 2014年6月
+
+> 净资产: 1151.73元
+
+> 收入: 107.62元
+
+> 支出: 0元
+
+> 利息: 3.17元
+
+#### &emsp;捐赠名单
+
+>
+<table>
+<tr><td><strong>捐赠者</strong>&emsp;&emsp;&emsp;&emsp;</td><td><strong>金额(元)</strong>&emsp;&emsp;&emsp;&emsp;</td><td><strong>时间</strong></td></tr>
+<tr><td>an_pig</td><td>100</td><td>2014.06.22 10:18:42</td></tr>
+<tr><td>AKI</td><td>7.62</td><td>/</td></tr>
+</table>
+
+
 ### 2014年5月
 
 > 净资产: 1040.94元
