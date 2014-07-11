@@ -1,0 +1,18 @@
+---
+layout: blog_zh
+title:  "Cyan for RUCE音库录制顺利完成"
+date:   2014-07-11
+categories: blog zh
+---
+
+&emsp;&emsp;今日下午5点30分（北京时间），Cyan for RUCE音库在Sleepwalking家中顺利录制完成。
+
+&emsp;&emsp;Cyan for RUCE音库是为即将发布的RUCE引擎定制的Utau音库，但不会兼容其它的Utau Resampler，因为该音库包含了针对特定歌手的语音学数据扩展，从而增强合成质量。
+
+&emsp;&emsp;本次录制采用farter提出的[以汉语音节为基元的录音表](http://blog.sina.com.cn/s/blog_711e86460101jt89.html)，共包含444个单一频率的采样。
+
+&emsp;&emsp;在此特别感谢Cyan的耐心配合！
+
+&emsp;
+
+&emsp;&emsp;我们的下一步是对原始语音采样进行整理，增强和分析。Cyan for RUCE音库将于2014年8月初发布。
