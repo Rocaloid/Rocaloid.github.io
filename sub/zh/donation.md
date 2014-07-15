@@ -47,9 +47,9 @@ title: Rocaloid
 
 ####&emsp;支付宝转账
 
-&emsp;&emsp;[点此进入支付宝转账页面](https://me.alipay.com/ericwangaki)
+&emsp;&emsp;[点此进入支付宝转账页面](https://shenghuo.alipay.com/send/payment/fill.htm)
 
-&emsp;&emsp;(这是[@AKI](/sub/zh/team-contact.html)的付款主页)
+> 收款人邮箱: 2657202503@qq.com
 
 > 付款说明: Rocaloid开发捐赠
 

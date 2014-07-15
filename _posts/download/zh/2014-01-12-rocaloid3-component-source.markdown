@@ -10,13 +10,10 @@ categories: download zh
 
 ##&emsp;Rocaloid主体部分
 
-> * RocaloidEngine3 - 合成引擎，包括`CVE3`, `RFILE3`
-
-> * CVDBToolChain - 音源库制作工具链
-
-> * GeneticOptimizer - 遗传算法参数优化器
-
-> * RUtil - Rocaloid实用编程库
+* RocaloidEngine3 - 合成引擎，包括`CVE3`, `RFILE3`
+* CVDBToolChain - 音源库制作工具链
+* GeneticOptimizer - 遗传算法参数优化器
+* RUtil - Rocaloid实用编程库
 
 * &emsp;[代码仓库](https://github.com/Sleepwalking/Rocaloid)
 
@@ -26,7 +23,7 @@ categories: download zh
 
 ##&emsp;CVEDSP
 
-> 高速音频信号处理库
+高速音频信号处理库
 
 * &emsp;[代码仓库](https://github.com/Sleepwalking/CVEDSP)
 
@@ -36,9 +33,9 @@ categories: download zh
 
 ##&emsp;CVEANN
 
-> 高速人工神经网络库
+高速人工神经网络库
 
-> *(尚未使用，开发暂停)*
+*(尚未使用，开发暂停)*
 
 * &emsp;[代码仓库](https://github.com/Sleepwalking/CVEANN)
 
@@ -46,25 +43,13 @@ categories: download zh
 
 ---
 
-##&emsp;Wavetave
-
-> 针对Octave Language的音频处理实验沙箱
-
-> 一个基于GNUPlot的频谱分析仪和若干语音分析插件
-
-* &emsp;[代码仓库](https://github.com/Rocaloid/Wavetave)
-
-* &emsp;[打包下载](https://github.com/Rocaloid/Wavetave/archive/master.zip) `.zip`
-
----
-
 ##&emsp;SCONFEditor
 
-> CVDB工具链前端
+CVDB工具链前端
 
-> 分割配置文件图形化编辑器
+分割配置文件图形化编辑器
 
-> *(尚未使用)*
+*(尚未使用)*
 
 * &emsp;[代码仓库](https://github.com/Rocaloid/SCONFEditor)
 

@@ -1,0 +1,84 @@
+---
+layout: post_zh
+title: "Rocaloid3(CVE3.5)各组件源码链接汇总"
+categories: download zh
+---
+
+<p></p>
+
+---
+
+##&emsp;RUCE
+
+Rocaloid UTAU兼容引擎
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/RUCE)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/RUCE/archive/master.zip) `.zip`
+
+---
+
+##&emsp;CVESVP
+
+CVE 频谱语音处理库
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/CVESVP)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/CVESVP/archive/master.zip) `.zip`
+
+---
+
+##&emsp;CVEDSP2
+
+CVE 数字信号处理库2
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/CVEDSP2)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/CVEDSP2/archive/master.zip) `.zip`
+
+---
+
+##&emsp;RFNL
+
+Rocaloid 高速数值库
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/RFNL)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/RFNL/archive/master.zip) `.zip`
+
+---
+
+##&emsp;RUtil2
+
+Rocaloid 编程实用套件2
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/RUtil2)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/RUtil2/archive/master.zip) `.zip`
+
+---
+
+##&emsp;Rocaloid-Doc
+
+Rocaloid3 项目文档
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/Rocaloid-Doc)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/Rocaloid-Doc/archive/master.zip) `.zip`
+
+---
+
+##&emsp;Wavetave
+
+基于Octave的音频处理实验沙箱
+
+一个基于GNUPlot的频谱分析仪和若干语音分析插件
+
+* &emsp;[代码仓库](https://github.com/Rocaloid/Wavetave)
+
+* &emsp;[打包下载](https://github.com/Rocaloid/Wavetave/archive/master.zip) `.zip`
+
+<br />
+
+<p align="right"><a href="/sub/zh/download.html">返回</a></p>
+
