@@ -3,7 +3,8 @@ layout: default_en
 title: Rocaloid
 ---
 
-&emsp;Welcome to the world of Rocaloid!
+#Welcome to the world of Rocaloid!
+
 ---
 
 &emsp;&emsp;Rocaloid is a free, open-source singing voice synthesis system. Its ultimate goal is to **fast** synthesize **natural, flexible and multi-lingual** vocal parts.

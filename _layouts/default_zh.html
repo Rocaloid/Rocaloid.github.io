@@ -1,53 +1,148 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
-"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html class="no-js">
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<title>Rocaloid: 从零做起，自由的歌声合成系统</title>
-	<!--[if lt IE 9 ]>
-		<link rel="stylesheet" type="text/css" href="/css/main_ie8.css" />
-	<![endif]-->
-	<!--[if (gt IE 8)|!(IE)]><!-->
-		<link rel="stylesheet" type="text/css" href="/css/main.css" />
-	<!--<![endif]-->
-	<link rel="stylesheet" type="text/css" href="/css/syntax.css" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Rocaloid: 从零做起，自由的歌声合成系统</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <link rel="icon" type="image/png" href="/assets/i/favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="/assets/i/app-icon72x72@2x.png">
+  <meta name="apple-mobile-web-app-title" content="Amaze UI" />
+  <link rel="stylesheet" href="/assets/css/amui.all.min.css">
+  <link rel="stylesheet" href="/assets/css/app.css">
+  <link rel="stylesheet" href="http://libs.useso.com/js/font-awesome/4.1.0/css/font-awesome.min.css">
 </head>
 <body>
-	<div id="header">
-		<div class="inner">
-			<div id="header_logo"></div>
+<header class="am-topbar am-topbar-inverse amz-header-x" >
+  <h1 class="am-topbar-brand">
+    <a href="/index_zh.html">Rocaloid</a>
+  </h1>
+
+  <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-success am-show-sm-only" data-am-collapse="{target: '#doc-topbar-collapse'}"><span class="am-sr-only">导航切换</span> <span class="am-icon-bars"></span></button>
+
+  <div class="am-collapse am-topbar-collapse">
+    <ul class="am-nav am-nav-pills am-topbar-nav">
+      <li><a href="/index_zh.html">首页</a></li>
+      <li><a href="/sub/zh/blog/index.html">博客</a></li>
+      <li><a href="/sub/zh/download.html">下载</a></li>
+      <li><a href="http://rocaloid.wikia.com/">Wiki</a></li>
+      <li><a href="/sub/zh/posts.html">投稿</a></li>
+
+    </ul>
+
+  </div>
+</header>
+<div id="amz-home">
+  <section id="amz-hero">
+    <div class="amz-container am-cf">
+      <div class="amz-mascot am-scrollspy-init am-scrollspy-inview am-animation-slide-left"
+      data-am-scrollspy="{animation: 'slide-left', delay: 100}">
+        <img src="/assets/i/rocaloid.png" alt="Rocaloid Logo">
+      </div>
+      <div class="amz-hero-intro">
+        <hgroup>
+          <h1 data-am-scrollspy="{animation:'slide-left'}" class="am-scrollspy-init">
+            Rocaloid
+          </h1>
+          <h2 data-am-scrollspy="{animation:'slide-right', delay: 500}" class="am-scrollspy-init">
+            自然、快速、灵活
+          </h2>
+          <h3 data-am-scrollspy="{animation:'slide-bottom', delay: 1000}" class="am-scrollspy-init am-scrollspy-inview am-animation-slide-bottom">
+            从零做起、自由的歌声合成系统
+          </h3>
+        </hgroup>
+        <div class="amz-btn-started am-scrollspy-init am-scrollspy-inview am-animation-scale-up"
+        data-am-scrollspy="{animation:'scale-up', delay: 1500}">
+          <a href="/sub/zh/download.html" class="am-btn am-btn-success am-btn-lg">
+            开始使用
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<div class="am-g">
+  <div class="col-sm-11 col-sm-centered">
+  	<div class="am-container">
+		<!--[if lte IE 9]>
+		<p class="browsehappy">你正在使用<strong>过时</strong>的浏览器。 请 <a href="http://browsehappy.com/" target="_blank">升级浏览器</a>
+		  以获得更好的体验！</p>
+		<![endif]-->
+		{{ content }}
+  	</div>
+  </div>
+</div>
+
+<footer class="amz-footer">
+	<div class="am-g amz-container">
+		<div class="col-md-4 col-md-push-8">
+			<ul class="amz-social">
+				<li>
+					<a href="/sub/zh/history.html" title="项目历史">
+						<i class="fa fa-history"></i>
+					</a>
+				</li>
+				<li>
+					<a href="/sub/zh/manual.html" title="参考文档">
+						<i class="fa fa-book"></i>
+					</a>
+				</li>
+				<li>
+					<a href="http://tieba.baidu.com/f?kw=rocaloid" title="Rocaloid贴吧" target="_blank">
+						<i class="fa fa-paw"></i>
+					</a>
+				</li>
+				<li>
+					<a href="/sub/zh/donation.html" title="捐赠">
+						<i class="fa fa-money"></i>
+					</a>
+				</li>
+				<li>
+					<a href="/sub/zh/contact.html" title="联系我们">
+						<span class="am-icon-paper-plane">
+						</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="col-md-8 col-md-pull-4">
+			<h2 class="amz-fd">
+				语言：
+			</h2>
+			<ul class="amz-links">
+				<li>
+					<a href="/index_zh.html">
+						简体中文
+					</a>
+					|
+					<a href="/index_en.html">
+						English
+					</a>
+
+				</li>
+			</ul>
+			<p class="amz-cp">
+				Rocaloid是非盈利项目。
+				</a><br />
+				由
+				<a href="http://oran.pw/" target="_blank">
+					Oran Zhang
+				</a>
+				设计。<br />使用<a href="http://pages.github.com/">GitHub Pages</a>
+			</p>
 		</div>
 	</div>
-	<div id="main">
-		<div class="inner">
-			<div id="leftbox">
-				<div id="nav">
-					<div id="linkboxs">
-						<div class="linkbox"><a href="/index_zh.html">首页</a></div>
-						<div class="linkbox"><a href="/sub/zh/blog.html">博客</a></div>
-						<div class="linkbox"><a href="/sub/zh/history.html">项目历史</a></div>
-						<div class="linkbox"><a href="/sub/zh/download.html">下载</a></div>
-						<div class="linkbox"><a href="/sub/zh/manual.html">参考文档</a></div>
-						<div class="linkbox"><a href="http://rocaloid.wikia.com">Wiki</a></div>
-						<div class="linkbox"><a href="/sub/zh/posts.html">投稿</a></div>
-						<div class="linkbox"><a href="/sub/zh/contact.html">联系</a></div>
-						<div class="linkbox"><a href="/sub/zh/donation.html">捐赠</a></div>
-					</div>
-				</div>
-				<div id="MainVR"></div>
-			</div>
-			<div id="rightbox">
-				{{ content }}
-			</div>
-			<div id="after"></div>
-		</div>
-	</div>
-	<div id="footer">
-		<p>
-			语言：<a href="/index_en.html">English</a> | <a href="/index_zh.html">简体中文</a><br /><br />
-			本站使用<a href="http://pages.github.com/">GitHub Pages</a>发布<br />
-			Rocaloid是一个非盈利性项目。<br />
-		</p>
-	</div>
+</footer>
+
+
+<script src="http://libs.baidu.com/zepto/1.1.3/zepto.min.js"></script>
+<script>window.Zepto || document.write('<script src="assets/js/zepto.min.js?1.1.3"><\/script>')</script>
+<script src="/assets/js/amui.js"></script>
+<script src="/assets/js/app.js"></script>
 </body>
 </html>
+

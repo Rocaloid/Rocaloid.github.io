@@ -3,8 +3,7 @@ layout: default_zh
 title: Rocaloid
 ---
 
-&emsp;欢迎来到Rocaloid的世界!
----
+#欢迎来到Rocaloid的世界!
 
 ---
 
