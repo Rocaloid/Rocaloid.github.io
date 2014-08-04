@@ -2,9 +2,43 @@
 layout: default_zh
 title: Rocaloid
 ---
+<div id="amz-home">
+  <section id="amz-hero">
+    <div class="amz-container am-cf">
+      <div class="amz-mascot am-scrollspy-init am-scrollspy-inview">
+        <img class="am-show-lg-only" src="/assets/i/rocaloid.png" alt="Rocaloid Logo">	
+        <img class="am-show-md-only" src="/assets/i/rocaloid.png" alt="Rocaloid Logo">
+      </div>
+      <div class="amz-hero-intro">
+        <hgroup>
+          <h1 class="am-scrollspy-init">
+            Rocaloid
+          </h1>
+          <h2 class="am-scrollspy-init">
+            自然、快速、灵活
+          </h2>
+          <h3 class="am-scrollspy-init am-scrollspy-inview">
+            从零做起、自由的歌声合成系统
+          </h3>
+        <div class="am-show-lg-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
+          <a href="/sub/zh/download.html" class="am-btn am-btn-success am-btn-lg">
+            开始使用
+          </a>
+        </div>
+        <div class="am-show-md-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
+          <a href="/sub/zh/download.html" class="am-btn am-btn-success am-btn-lg">
+            开始使用
+          </a>
+        </div>
+        </hgroup>
 
-&emsp;欢迎来到Rocaloid的世界!
----
+      </div>
+    </div>
+  </section>
+</div>
+
+
+#欢迎来到Rocaloid的世界!
 
 ---
 
