@@ -1,15 +1,17 @@
-
 <!doctype html>
 <html class="no-js">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Rocaloid: The free vocal synthesis system from scratch.</title>
+  <title>Rocaloid: 从零做起，自由的歌声合成系统</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta name="renderer" content="webkit">
   <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <link rel="icon" type="image/png" href="/assets/i/favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="/assets/i/app-icon72x72@2x.png">
+  <meta name="apple-mobile-web-app-title" content="Amaze UI" />
   <link rel="stylesheet" href="/assets/css/amui.all.min.css">
   <link rel="stylesheet" href="/assets/css/app.css">
   <link rel="stylesheet" href="http://libs.useso.com/js/font-awesome/4.1.0/css/font-awesome.min.css">
@@ -22,51 +24,22 @@
 
   <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-success am-show-sm-only" data-am-collapse="{target: '#doc-topbar-collapse'}"><span class="am-sr-only">Switch</span> <span class="am-icon-bars"></span></button>
 
-  <div class="am-collapse am-topbar-collapse">
+  <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
     <ul class="am-nav am-nav-pills am-topbar-nav">
-      <li><a href="/index_en.html">Home</a></li>
-      <li><a href="/sub/en/blog.html">Blog</a></li>
-      <li><a href="/sub/en/download.html">Download</a></li>
-      <li><a href="http://rocaloid.wikia.com/">Wiki</a></li>
+		<li><a href="/index_en.html">Home</a></li>
+		<li><a href="/sub/en/blog/index.html">Blogs</a></li>
+		<li><a href="/sub/en/download.html">Downloads</a></li>
+		<li><a href="http://rocaloid.wikia.com/">Wiki</a></li>
+		<li><a href="/sub/en/donation.html" title="Donate">Donate</a>	</li>
+		<li><a href="/sub/en/contact.html" title="Contact Us">Contact Us</a></li>
     </ul>
-
   </div>
 </header>
-<div id="amz-home">
-  <section id="amz-hero">
-    <div class="amz-container am-cf">
-      <div class="amz-mascot am-scrollspy-init am-scrollspy-inview am-animation-slide-left"
-      data-am-scrollspy="{animation: 'slide-left', delay: 100}">
-        <img src="/assets/i/rocaloid.png" alt="Rocaloid Logo">
-      </div>
-      <div class="amz-hero-intro">
-        <hgroup>
-          <h1 data-am-scrollspy="{animation:'slide-left'}" class="am-scrollspy-init">
-            Rocaloid
-          </h1>
-          <h2 data-am-scrollspy="{animation:'slide-right', delay: 500}" class="am-scrollspy-init">
-            natural and flexible
-          </h2>
-          <h3 data-am-scrollspy="{animation:'slide-bottom', delay: 1000}" class="am-scrollspy-init am-scrollspy-inview am-animation-slide-bottom">
-            the free vocal synthesis system from scratch
-          </h3>
-        </hgroup>
-        <div class="amz-btn-started am-scrollspy-init am-scrollspy-inview am-animation-scale-up"
-        data-am-scrollspy="{animation:'scale-up', delay: 1500}">
-          <a href="/sub/en/download.html" class="am-btn am-btn-success am-btn-lg">
-            Get Started
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-</div>
-<div class="am-g">
+<div class="am-g amz-content">
   <div class="col-sm-11 col-sm-centered">
   	<div class="am-container">
 		<!--[if lte IE 9]>
-		<p class="browsehappy">Your Browser <strong>Out of Date</strong>!。 Please <a href="http://browsehappy.com/" target="_blank">Upgrade Your Browser</a>
-		  to Get Best Experience!</p>
+		  <script type="text/javascript">window.location="http://old.rocaloid.org"</script>
 		<![endif]-->
 		{{ content }}
   	</div>
@@ -76,33 +49,28 @@
 <footer class="amz-footer">
 	<div class="am-g amz-container">
 		<div class="col-md-4 col-md-push-8">
-			<ul class="amz-social">
+			<ul class="amz-socail">
 				<li>
 					<a href="/sub/en/history.html" title="History">
-						<i class="fa fa-history"></i>
+						<i class="fa fa-history"></i> History
 					</a>
 				</li>
 				<li>
 					<a href="/sub/en/manual.html" title="Manual">
-						<i class="fa fa-book"></i>
+						<i class="fa fa-book"></i> Manual
 					</a>
 				</li>
 				<li>
 					<a href="/sub/en/donation.html" title="Donate">
-						<i class="fa fa-money"></i>
+						<i class="fa fa-money"></i> Donate
 					</a>
 				</li>
-				<li>
-					<a href="/sub/en/contact.html" title="Contact Us">
-						<span class="am-icon-paper-plane">
-						</span>
-					</a>
-				</li>
+
 			</ul>
 		</div>
 		<div class="col-md-8 col-md-pull-4">
 			<h2 class="amz-fd">
-				Languages:
+				语言：
 			</h2>
 			<ul class="amz-links">
 				<li>
@@ -136,3 +104,4 @@
 <script src="/assets/js/app.js"></script>
 </body>
 </html>
+

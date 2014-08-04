@@ -2,6 +2,41 @@
 layout: default_en
 title: Rocaloid
 ---
+<div id="amz-home">
+  <section id="amz-hero">
+    <div class="amz-container am-cf">
+      <div class="amz-mascot am-scrollspy-init am-scrollspy-inview">
+        <img class="am-show-lg-only" src="/assets/i/rocaloid.png" alt="Rocaloid Logo">	
+        <img class="am-show-md-only" src="/assets/i/rocaloid.png" alt="Rocaloid Logo">
+      </div>
+      <div class="amz-hero-intro">
+        <hgroup>
+          <h1 class="am-scrollspy-init">
+            Rocaloid
+          </h1>
+          <h2 class="am-scrollspy-init">
+            natural and flexible
+          </h2>
+          <h3 class="am-scrollspy-init am-scrollspy-inview">
+            the free vocal synthesis system from scratch
+          </h3>
+        <div class="am-show-lg-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
+          <a href="/sub/en/download.html" class="am-btn am-btn-success am-btn-lg">
+            get started
+          </a>
+        </div>
+        <div class="am-show-md-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
+          <a href="/sub/en/download.html" class="am-btn am-btn-success am-btn-lg">
+            get started
+          </a>
+        </div>
+        </hgroup>
+
+      </div>
+    </div>
+  </section>
+</div>
+
 
 #Welcome to the world of Rocaloid!
 
