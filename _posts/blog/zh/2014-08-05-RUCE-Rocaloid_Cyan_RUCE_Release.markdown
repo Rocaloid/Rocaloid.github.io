@@ -22,7 +22,7 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;&emsp;不带原录音资料的[Rocaloid\_Cyan\_RUCE 1.0.0下载](https://mega.co.nz/#!XcgCjJZA!Z2zLwZf2bgYmUbb_WALwV2qlPZMRNmTxWZYXePyZ-3g) `.7z` `76MiB`
 
-&emsp;&emsp;使用说明请见我们在b站的新投稿([av1376960](http://www.bilibili.com/video/av1376960/)。解压后请先阅读`README.txt`和`LICENSE.txt`。
+&emsp;&emsp;使用说明请见我们在b站的新投稿（[av1376960](http://www.bilibili.com/video/av1376960/)）。解压后请先阅读`README.txt`和`LICENSE.txt`。
 
 &emsp;&emsp;
 
@@ -46,13 +46,13 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 > Q: RUCE能否用于Rocaloid_Cyan_RUCE以外的UTAU音源？
 
-> A: 抱歉，不能。标准UTAU音源需要重新制作成RUCE音源，但是[投稿](http://www.bilibili.com/video/av1376960/)上给出了制作方法。
+> A: 抱歉，不能。标准UTAU音源需要重新制作成RUCE音源，但是[投稿](http://www.bilibili.com/video/av1376960/index_4.html)上给出了制作方法。
 
 &emsp;
 
 > Q: 如何制作自己的RUCE音源库？
 
-> A: Rocaloid Toolchain中含有制作RUCE音源库必备的工具，你还需要Audacity音频编辑器。制作方法请参考[投稿](http://www.bilibili.com/video/av1376960/)。
+> A: Rocaloid Toolchain中含有制作RUCE音源库必备的工具，你还需要Audacity音频编辑器。制作方法请参考[投稿](http://www.bilibili.com/video/av1376960/index_4.html)。
 
 &emsp;
 
