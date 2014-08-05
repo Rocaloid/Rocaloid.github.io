@@ -34,7 +34,7 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 > Q: 如何安装RUCE或Rocaloid_Cyan_RUCE?
 
-> A: 请参考[b站投稿]((http://www.bilibili.com/video/av1376960/))。
+> A: 请参考[b站投稿](http://www.bilibili.com/video/av1376960/)。
 
 &emsp;
 
@@ -46,13 +46,13 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 > Q: RUCE能否用于Rocaloid_Cyan_RUCE以外的UTAU音源？
 
-> A: 抱歉，不能。标准UTAU音源需要重新制作成RUCE音源，但是[投稿]((http://www.bilibili.com/video/av1376960/))上给出了制作方法。
+> A: 抱歉，不能。标准UTAU音源需要重新制作成RUCE音源，但是[投稿](http://www.bilibili.com/video/av1376960/)上给出了制作方法。
 
 &emsp;
 
 > Q: 如何制作自己的RUCE音源库？
 
-> A: Rocaloid Toolchain中含有制作RUCE音源库必备的工具，你还需要Audacity音频编辑器。制作方法请参考[投稿]((http://www.bilibili.com/video/av1376960/))。
+> A: Rocaloid Toolchain中含有制作RUCE音源库必备的工具，你还需要Audacity音频编辑器。制作方法请参考[投稿](http://www.bilibili.com/video/av1376960/)。
 
 &emsp;
 
