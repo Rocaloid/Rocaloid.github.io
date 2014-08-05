@@ -22,7 +22,7 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;&emsp;不带原录音资料的[Rocaloid\_Cyan\_RUCE 1.0.0下载](https://mega.co.nz/#!XcgCjJZA!Z2zLwZf2bgYmUbb_WALwV2qlPZMRNmTxWZYXePyZ-3g) `.7z` `76MiB`
 
-&emsp;&emsp;使用说明请见我们在b站的新投稿（[av1376960](http://www.bilibili.com/video/av1376960/)）。解压后请先阅读`README.txt`和`LICENSE.txt`。
+&emsp;&emsp;使用说明请见我们在b站的新投稿([av1376960](http://www.bilibili.com/video/av1376960/))。解压后请先阅读`README.txt`和`LICENSE.txt`。
 
 &emsp;&emsp;
 
@@ -32,7 +32,7 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 ####Q&A
 
-> Q: 如何安装RUCE或Rocaloid_Cyan_RUCE?
+> Q: 如何安装RUCE或Rocaloid\_Cyan\_RUCE?
 
 > A: 请参考[b站投稿](http://www.bilibili.com/video/av1376960/)。
 
@@ -44,7 +44,7 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;
 
-> Q: RUCE能否用于Rocaloid_Cyan_RUCE以外的UTAU音源？
+> Q: RUCE能否用于Rocaloid\_Cyan\_RUCE以外的UTAU音源？
 
 > A: 抱歉，不能。标准UTAU音源需要重新制作成RUCE音源，但是[投稿](http://www.bilibili.com/video/av1376960/index_4.html)上给出了制作方法。
 
@@ -56,7 +56,7 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;
 
-> Q: Rocaloid_Cyan_RUCE能否被其他UTAU Resampler调用？
+> Q: Rocaloid\_Cyan\_RUCE能否被其他UTAU Resampler调用？
 
 > A: 能。但是效果会大打折扣。
 
