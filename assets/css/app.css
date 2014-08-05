@@ -101,8 +101,8 @@ body {
 .amz-mascot img {
 	float: left;
 }
-.amz-hero-intro {
-	padding-bottom:30px
+.amz-content {
+  margin-top: 30px;
 }
 .amz-hero-intro hgroup {
 	color:#000;
