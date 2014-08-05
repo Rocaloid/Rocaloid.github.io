@@ -18,11 +18,11 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;&emsp;
 
-&emsp;&emsp;带有原录音资料的[Rocaloid_Cyan_RUCE 1.0.0下载](https://mega.co.nz/#!zMZj3aRD!bgKmrx6jpE08Nto2ljEtK-IbEuUDsVrQx23RSHeAJd8) `.7z` `112MiB`
+&emsp;&emsp;带有原录音资料的[Rocaloid\_Cyan\_RUCE 1.0.0下载](https://mega.co.nz/#!zMZj3aRD!bgKmrx6jpE08Nto2ljEtK-IbEuUDsVrQx23RSHeAJd8) `.7z` `112MiB`
 
-&emsp;&emsp;不带原录音资料的[Rocaloid_Cyan_RUCE 1.0.0下载](https://mega.co.nz/#!XcgCjJZA!Z2zLwZf2bgYmUbb_WALwV2qlPZMRNmTxWZYXePyZ-3g) `.7z` `76MiB`
+&emsp;&emsp;不带原录音资料的[Rocaloid\_Cyan\_RUCE 1.0.0下载](https://mega.co.nz/#!XcgCjJZA!Z2zLwZf2bgYmUbb_WALwV2qlPZMRNmTxWZYXePyZ-3g) `.7z` `76MiB`
 
-&emsp;&emsp;使用说明请见我们在b站的新投稿([av1376960](http://www.bilibili.com/video/av1376960/))。解压后请先阅读`README.txt`和`LICENSE.txt`。
+&emsp;&emsp;使用说明请见我们在b站的新投稿([av1376960](http://www.bilibili.com/video/av1376960/)。解压后请先阅读`README.txt`和`LICENSE.txt`。
 
 &emsp;&emsp;
 
