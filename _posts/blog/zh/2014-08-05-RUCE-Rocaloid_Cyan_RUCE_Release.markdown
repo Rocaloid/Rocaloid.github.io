@@ -8,7 +8,9 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;&emsp;经过半年的不懈努力，我们在八月初完成了RUCE合成引擎及Rocaloid_Cyan_RUCE音库。
 
-&emsp;&emsp;[RUCE 1.0.0-alpha1下载](/resources/binaries/RUCE-1.0.0-alpha1.zip) `.zip` `328KiB`
+&emsp;&emsp;[RUCE 1.0.0-alpha2下载](/resources/binaries/RUCE-1.0.0-alpha2.zip) `.zip` `328KiB`
+
+&emsp;&emsp;注：alpha2版本修复了`g`性别参数和原resampler不兼容的问题。
 
 > 配置需求
 
