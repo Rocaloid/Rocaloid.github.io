@@ -12,6 +12,14 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 &emsp;&emsp;注：alpha2版本修复了`g`性别参数和原resampler不兼容的问题。
 
+###安装方法
+
+1. 将`RUCE-1.0.0-alpha2.zip`和二言声库解压至UTAU安装目录
+
+2. 按照如下图所示将resampler换成RUCE
+
+![RUCE](/images/RUCE-install.jpg)
+
 > 配置需求
 
 > CPU: Intel Pentium III或以上
