@@ -14,6 +14,8 @@ tags: publish synthesizer RUCE soundfont Rocaloid\_Cyan Rocaloid\_Cyan_RUCE
 
 ###安装方法
 
+> 详细安装步骤见[此处](http://bbs.ivocaloid.com/forum.php?mod=viewthread&tid=127250&page=1)
+
 1. 将`RUCE-1.0.0-alpha2.zip`解压至UTAU安装目录
 
 2. 将Rocaloid\_Cyan_RUCE声库解压至UTAU安装目录的voice文件夹下
