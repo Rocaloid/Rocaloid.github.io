@@ -3,10 +3,10 @@ layout: blog_zh
 title:  "RUCE和Rocaloid_Cyan_RUCE音库发布"
 date:   2014-08-05
 categories: blog zh
-tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
+tags: publish synthesizer RUCE soundfont Rocaloid\_Cyan Rocaloid\_Cyan_RUCE
 ---
 
-&emsp;&emsp;经过半年的不懈努力，我们在八月初完成了RUCE合成引擎及Rocaloid_Cyan_RUCE音库。
+&emsp;&emsp;经过半年的不懈努力，我们在八月初完成了RUCE合成引擎及Rocaloid\_Cyan_RUCE音库。
 
 &emsp;&emsp;[RUCE 1.0.0-alpha2下载](/resources/binaries/RUCE-1.0.0-alpha2.zip) `.zip` `328KiB`
 
@@ -14,9 +14,11 @@ tags: publish synthesizer RUCE soundfont Rocaloid_Cyan Rocaloid_Cyan_RUCE
 
 ###安装方法
 
-1. 将`RUCE-1.0.0-alpha2.zip`和二言声库解压至UTAU安装目录
+1. 将`RUCE-1.0.0-alpha2.zip`解压至UTAU安装目录
 
-2. 按照如下图所示将resampler换成RUCE
+2. 将Rocaloid\_Cyan_RUCE声库解压至UTAU安装目录的voice文件夹下
+
+3. 按照如下图所示将resampler换成RUCE
 
 ![RUCE](/images/RUCE-install.jpg)
 
