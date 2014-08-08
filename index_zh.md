@@ -30,6 +30,16 @@ title: Rocaloid
             开始使用
           </a>
         </div>
+        <div class="am-show-lg-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
+          <a href="/sub/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html" class="am-btn am-btn-success am-btn-lg">
+            获取RUCE
+          </a>
+        </div>
+        <div class="am-show-md-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
+          <a href="/sub/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html" class="am-btn am-btn-success am-btn-lg">
+            获取RUCE
+          </a>
+        </div>
         </hgroup>
 
       </div>
