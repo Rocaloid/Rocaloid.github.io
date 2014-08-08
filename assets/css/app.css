@@ -126,6 +126,8 @@ body {
 }
 .amz-btn-started {
 	padding: 20px 14px;
+	float: left;
+	margin-left: -0.5em;
 }
 .amz-notify {
 	padding:1em;
