@@ -21,15 +21,16 @@ title: Rocaloid
             the free vocal synthesis system from scratch
           </h3>
         <div class="am-show-lg-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
-          <a href="/sub/en/download.html" class="am-btn am-btn-success am-btn-lg">
-            get started
+          <a href="/sub/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html" class="am-btn am-btn-success am-btn-lg">
+            get started with RUCE
           </a>
         </div>
         <div class="am-show-md-only amz-btn-started am-scrollspy-init am-scrollspy-inview">
-          <a href="/sub/en/download.html" class="am-btn am-btn-success am-btn-lg">
-            get started
+          <a href="/sub/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html" class="am-btn am-btn-success am-btn-lg">
+            get started with RUCE
           </a>
         </div>
+        
         </hgroup>
 
       </div>
