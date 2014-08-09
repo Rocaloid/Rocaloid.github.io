@@ -10,7 +10,7 @@ tags: CVESVP opensource
 
 &emsp;&emsp;原因和开发者正在准备他的数学毕业论文有关，他的论文将包括CVESVP未来将实现的某项重要技术。为了避免抄袭，CVESVP的公开部分只能在论文完成前滞留在目前的开发状态。
 
-&emsp;&emsp;RUCE及工具链的新版本将无法与滞留状态的CVESVP兼容。我们会单独发布CVESVP在以下平台的共享库和头文件：
+&emsp;&emsp;RUCE及工具链的新版本将无法与滞留状态的CVESVP兼容。我们会单独发布CVESVP在以下平台的头文件和二进制共享库：
 
 * &emsp;x86-linux
 * &emsp;x86_64-linux
