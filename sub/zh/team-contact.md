@@ -17,11 +17,17 @@ title: Rocaloid
 
 &emsp;&emsp;张嘉承(oranzhang)/设计 Web及网页开发 Mac平台移植/武汉市第四十九中学/[oran@rocaloid.org](mailto:oran@rocaloid.org)
 
+&emsp;&emsp;郑兴达(Icenowy)/代码修整 编辑器开发/广东广雅中学/[icenowy@outlook.com](mailto:icenowy@outlook.com])
+
 ###&ensp;音源&创作组
 
 &emsp;&emsp;王昊(AKI)/音源库 编曲/[aki@rocaloid.org](mailto:aki@rocaloid.org)
 
 &emsp;&emsp;曹斯言(Cyan)/声源提供/上海中学国际部/[cyan@rocaloid.org](mailto:cyan@rocaloid.org)
+
+###&ensp;宣传组
+
+&emsp;&emsp;赵天成(Henryzhao)/活动策划/上海市七宝中学/[henryzhao@rocaloid.org](mailto:henryzhao@rocaloid.org)
 
 <br />
 
