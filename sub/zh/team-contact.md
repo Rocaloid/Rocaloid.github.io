@@ -15,6 +15,8 @@ title: Rocaloid
 
 &emsp;&emsp;万致远(rgwan)/RUCE 移植/江西南昌市第十九中学/[rgwan@rocaloid.org](mailto:rgwan@rocaloid.org)
 
+&emsp;&emsp;张嘉承(oranzhang)/设计 Web及网页开发 Mac平台移植/武汉市第四十九中学/[oran@rocaloid.org](mailto:oran@rocaloid.org)
+
 ###&ensp;音源&创作组
 
 &emsp;&emsp;王昊(AKI)/音源库 编曲/[aki@rocaloid.org](mailto:aki@rocaloid.org)
