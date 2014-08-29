@@ -11,7 +11,7 @@ title: Rocaloid
 
 &emsp;&emsp;华侃如(Sleepwalking)/架构 算法 后端/上海市平和双语学校/[sleepwalking@rocaloid.org](mailto:sleepwalking@rocaloid.org)
 
-&emsp;&emsp;董博非(Tuxzz)/前端/天津市二十四中/[tuxzz@rocaloid.org](mailto:tuxzz@rocaloid.org)
+&emsp;&emsp;董博非(Tuxzz)/前端/天津二中/[tuxzz@rocaloid.org](mailto:tuxzz@rocaloid.org)
 
 &emsp;&emsp;万致远(rgwan)/前端 移植/江西南昌市第十九中学/[rgwan@rocaloid.org](mailto:rgwan@rocaloid.org)
 
