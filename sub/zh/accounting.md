@@ -11,6 +11,33 @@ title: Rocaloid
 
 &emsp;&emsp;注：捐款时未注明网名的朋友们，列表中使用姓名拼音打头缩写代替。
 
+### 2014年暑期（7~8月）
+
+> 净资产: 1584.06元
+
+> 收入: 608.00元
+
+> 支出: 187.00元
+
+> 利息: 3.39元
+
+#### &emsp;捐赠名单
+
+>
+<table>
+<tr><td><strong>捐赠者</strong>&emsp;&emsp;&emsp;&emsp;</td><td><strong>金额(元)</strong>&emsp;&emsp;&emsp;&emsp;</td><td><strong>时间</strong></td></tr>
+<tr><td>an_pig</td><td>200</td><td>2014.08.10 04:22</td></tr>
+<tr><td>Henryzhao</td><td>200</td><td>2014.08.06 14:13</td></tr>
+<tr><td>FMK</td><td>80</td><td>2014.08.16 17:29</td></tr>
+<tr><td>HJY</td><td>50</td><td>2014.08.09 00:33</td></tr>
+<tr><td>CX</td><td>50</td><td>2014.08.07 03:19</td></tr>
+<tr><td>XLX</td><td>10</td><td>2014.08.07 22:43</td></tr>
+<tr><td>BS</td><td>10</td><td>2014.08.08 16:18</td></tr>
+<tr><td>WZC</td><td>5</td><td>2014.08.08 03:19</td></tr>
+<tr><td>白杨</td><td>3</td><td>2014.08.06 00:33</td></tr>
+
+</table>
+
 ### 2014年6月
 
 > 净资产: 1151.73元
