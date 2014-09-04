@@ -19,27 +19,44 @@ title: Rocaloid
 
 ####&emsp;&ensp;董博非 (Tuxzz)
 
-> Frontend; Soundfont toolchain; research.
+> Frontend; Soundbank toolchain; research.
 
-> 天津市二十四中 初三(四)
+> 天津二中 初三(四)
 
 > Email: [tuxzz@rocaloid.org](mailto:tuxzz@rocaloid.org)
 
 ####&emsp;&ensp;万致远 (rgwan)
 
-> Porting.
+> Frontend; Porting; research.
 
-> 江西南昌市第十九中学 高二(二)
+> 江西南昌市第十九中学 高三(二)
 
 > Email: [rgwan@rocaloid.org](mailto:rgwan@rocaloid.org)
 
+####&emsp;&ensp;张嘉承 (orancho)
+
+> Web page design; Mac Porting.
+
+> 武汉市第四十九中学
+
+> Email: [oran@rocaloid.org](mailto:oran@rocaloid.org)
+
+####&emsp;&ensp;郑兴达 (icenowy)
+
+> Bug fix; Editor.
+
+> 广东广雅中学
+
+> Email: [icenowy@outlook.com](mailto:icenowy@outlook.com)
+
 ---
 
-##&ensp;Soundfont & Creation Group
+
+##&ensp;Soundbank & Creation Group
 
 ####&emsp;&ensp;AKI
 
-> compositing; soundfont processing.
+> compositing; soundbank processing.
 
 > Email: [aki@rocaloid.org](mailto:aki@rocaloid.org)
 
@@ -52,6 +69,18 @@ title: Rocaloid
 > Email: [cyan@rocaloid.org](mailto:cyan@rocaloid.org)
 
 <br />
+
+---
+
+##&ensp;Publicize Group
+
+####&emsp;&ensp;赵天成(Henryzhao)
+
+> actives planning;
+
+> Email: [aki@rocaloid.org](mailto:aki@rocaloid.org)
+
+> 上海市七宝中学
 
 <p align="right"><a href="/sub/en/contact.html">Back</a></p>
 
