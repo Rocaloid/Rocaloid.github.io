@@ -21,7 +21,7 @@ title: Rocaloid
 
 > Frontend; Soundbank toolchain; research.
 
-> 天津二中 初三(四)
+> 天津二中 高一(四)
 
 > Email: [tuxzz@rocaloid.org](mailto:tuxzz@rocaloid.org)
 
