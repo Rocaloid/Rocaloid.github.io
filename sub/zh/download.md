@@ -27,9 +27,9 @@ title: Rocaloid
 
 ###&ensp;Rocaloid音源库
 
-&emsp;&emsp;Rocaloid_Cyan_RUCE(for RUCE alpha3) [链接](/blog/zh/2014/10/12/RUCE-alpha-3-Release.html)
+&emsp;&emsp;Rocaloid\_Cyan_RUCE(for RUCE alpha3) [链接](/blog/zh/2014/10/12/RUCE-alpha-3-Release.html)
 
-&emsp;&emsp;Rocaloid_Cyan_RUCE(for RUCE alpha2) [链接](/blog/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html)
+&emsp;&emsp;Rocaloid\_Cyan_RUCE(for RUCE alpha2) [链接](/blog/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html)
 
 &emsp;&emsp;Rocaloid_Cyan限制预览版(for CVE3) [链接](/blog/zh/2014/02/07/Rocaloid_CyanPreviewRelease.html)。
 
