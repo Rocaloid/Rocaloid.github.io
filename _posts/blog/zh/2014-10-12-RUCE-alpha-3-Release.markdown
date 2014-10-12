@@ -18,7 +18,7 @@ tags: publish synthesizer RUCE
 
 * &emsp;工具链大幅改动，增加`editrudb`和`proberudb`组件。
 
-&emsp;&emsp;**RUCE 1.1.0-alpha3是支持UTAU/Cadencii的最后一个版本了，之后的版本会使用独立的[API](https://gist.github.com/Sleepwalking/82072796aefe1c2fead2#file-ruce_api-h)。**
+&emsp;&emsp;**RUCE 1.1.0-alpha3是最后一个支持UTAU/Cadencii的版本，之后的版本会使用独立的[API](https://gist.github.com/Sleepwalking/82072796aefe1c2fead2#file-ruce_api-h)。**
 
 ####教程
 ===
