@@ -11,6 +11,30 @@ title: Rocaloid
 
 &emsp;&emsp;注：捐款时未注明网名的朋友们，列表中使用姓名拼音打头缩写代替。
 
+### 2014年9月
+
+> 净资产: 1814.84元
+
+> 收入: 245.00元
+
+> 支出: 20.00元
+
+> 利息: 5.78元
+
+* 制作名片开销20元。
+
+#### &emsp;捐赠名单
+
+>
+<table>
+<tr><td><strong>捐赠者</strong>&emsp;&emsp;&emsp;&emsp;</td><td><strong>金额(元)</strong>&emsp;&emsp;&emsp;&emsp;</td><td><strong>时间</strong></td></tr>
+<tr><td>an_pig</td><td>100</td><td>2014.09.09 04:03</td></tr>
+<tr><td>CX</td><td>100</td><td>2014.09.01 08:14</td></tr>
+<tr><td>rgwan</td><td>25</td><td>2014.09.04 22:23</td></tr>
+<tr><td>ZJW</td><td>20</td><td>2014.09.09 22:14</td></tr>
+
+</table>
+
 ### 2014年暑期（7~8月）
 
 > 净资产: 1584.06元

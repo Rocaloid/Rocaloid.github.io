@@ -8,6 +8,23 @@ categories: download zh
 
 ---
 
+##&ensp;Rocaloid3.0
+===
+
+&emsp;&emsp;[链接](/blog/zh/2014/02/07/Rocaloid_CyanPreviewRelease.html)。
+
+&emsp;&emsp;版本: `3.0`
+
+&emsp;&emsp;平台：
+
+> Linux & Windows
+
+&emsp;&emsp;[源代码](/download/zh/2014/01/12/rocaloid3-component-source.html)
+
+&emsp;&emsp;[百度网盘下载](http://pan.baidu.com/s/1pc8Ho) Rocaloid3(CVE3)执行档(for Windows) `.7z` `1MB`
+
+---
+
 ##&ensp;Rocaloid Renaissance
 ===
 

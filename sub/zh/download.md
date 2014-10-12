@@ -9,7 +9,9 @@ title: Rocaloid
 
 ###&ensp;可执行文件
 
-&emsp;&emsp;Rocaloid3(CVE3)执行档(for Windows)[链接](/blog/zh/2014/02/07/Rocaloid_CyanPreviewRelease.html)。
+&emsp;&emsp;RUCE1.1.0-alpha3：[下载请见博客](/blog/zh/2014/10/12/RUCE-alpha-3-Release.html)。
+
+&emsp;&emsp;RUCE1.0.0-alpha2：[下载请见博客](/blog/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html)。
 
 &emsp;&emsp;Rocaloid历史版本的执行档[下载](/download/zh/2014/01/12/rocaloid-old-binaries.html)。
 
@@ -25,7 +27,11 @@ title: Rocaloid
 
 ###&ensp;Rocaloid音源库
 
-&emsp;&emsp;Rocaloid_Cyan限制预览版[链接](/blog/zh/2014/02/07/Rocaloid_CyanPreviewRelease.html)。
+&emsp;&emsp;Rocaloid_Cyan_RUCE(for RUCE alpha3) [链接](/blog/zh/2014/10/12/RUCE-alpha-3-Release.html)
+
+&emsp;&emsp;Rocaloid_Cyan_RUCE(for RUCE alpha2) [链接](/blog/zh/2014/08/05/RUCE-Rocaloid_Cyan_RUCE_Release.html)
+
+&emsp;&emsp;Rocaloid_Cyan限制预览版(for CVE3) [链接](/blog/zh/2014/02/07/Rocaloid_CyanPreviewRelease.html)。
 
 &emsp;&emsp;
 
