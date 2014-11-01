@@ -23,11 +23,11 @@ tags: publish synthesizer RUCE
 ####下载
 ===
 
-&emsp;&emsp;Rocaloid自动下载构建工具+音库自动下载构建工具 [百度网盘下载](http://pan.baidu.com/s/15zv2Y) `.7z` `3MiB + 29MiB`
+&emsp;&emsp;Rocaloid自动下载构建工具+音库自动下载构建工具 [百度网盘下载](http://pan.baidu.com/s/1qWK6sDQ) `.7z` `3MiB + 29MiB`
 
 &emsp;&emsp;Rocaloid自动下载构建工具 [Mega网盘下载](https://mega.co.nz/#!GURDjQiZ!uLGsAMW8FPkUG1C4hMUIvFG2qrvUyV687d4lbqbnF18) `.7z` `29MiB`
 
-&emsp;&emsp;Rocaloid音库自动下载构建工具 [Mega网盘下载](https://mega.co.nz/#!SdRjHLBR!RFdJNvI5rv8BvYUG4Cttl1ER8d3JvZQ1NWWyVaB5xoo) `.7z` `3MiB`
+&emsp;&emsp;Rocaloid音库自动下载构建工具 [Mega网盘下载](https://mega.co.nz/#!HBxFTZia!tPrHBz_ZHAfDWls_zPyOt-ZtWn3nMdLRCMNCNc9oZDg) `.7z` `3MiB`
 
 ---
 
